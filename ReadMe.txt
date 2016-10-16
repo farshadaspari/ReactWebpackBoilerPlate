@@ -13,5 +13,8 @@ NA
 
 Notes:
 --------------------------------------------------------------
-1. Webpack needs to be installed golably:
+1. Webpack needs to be installed globaly:
 	> npm install -g webpack
+
+2. Nodemon needs to be installed gloably:
+	> npm install -g nodemon
