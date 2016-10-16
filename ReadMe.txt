@@ -8,7 +8,8 @@ NA
 
 Use:
 -------------------------------------------------------------
-NA 
+To run in dev mode:
+	> npm run dev
 
 
 Notes:
