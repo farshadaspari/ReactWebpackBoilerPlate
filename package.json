@@ -1,0 +1,19 @@
+{
+  "name": "frb",
+  "version": "1.0.0",
+  "description": "Farshad's React Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farshadaspari/ReactWebpackBoilerPlate.git"
+  },
+  "author": "Farshad Aspari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farshadaspari/ReactWebpackBoilerPlate/issues"
+  },
+  "homepage": "https://github.com/farshadaspari/ReactWebpackBoilerPlate#readme"
+}
