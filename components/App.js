@@ -1,8 +1,14 @@
 ﻿import React, { Component } from 'react'
+import TextInput from './TextInput'
 
 class App extends Component{
     render(){
-        return <div>Farshad's React Boilerplate!</div>
+        return (
+            <div>
+                <div>Farshad's ReactBoilerplate!</div>
+                <TextInput />
+            </div>
+        );
     }
 }
 
