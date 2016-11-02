@@ -1,12 +1,14 @@
 ﻿import React, { Component } from 'react'
-import TextInput from './TextInput'
+import TodoInput from './TodoInput'
+import TodoList from './TodoList'
 
 class App extends Component{
     render(){
         return (
             <div>
                 <div>Farshad's ReactBoilerplate!</div>
-                <TextInput />
+                <TodoInput />
+                <TodoList />
             </div>
         );
     }
