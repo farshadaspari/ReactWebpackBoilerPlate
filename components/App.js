@@ -7,7 +7,7 @@ class App extends Component{
     render(){
         return (
             <div>
-                <div>Farshad's ReactBoilerplate!</div>
+                <div>ReactBoilerplate!</div>
                 <TodoInput dispatch={this.props.dispatch} />
                 <TodoList  todos={this.props.todos}/>
             </div>
